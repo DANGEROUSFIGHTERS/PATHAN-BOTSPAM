@@ -8,6 +8,10 @@
 # [𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](https://t.me/wtf_berlinop) ༒ [𝗔𝗡𝗞𝗜𝗧 𝗢𝗣](https://t.me/ANKIT_TOXICOP) ༒ [𝗧𝗢𝗫𝗜𝗖 𝗢𝗣](https://t.me/toxic_ankitop) ༒ [𝗦𝗛𝗜𝗩 𝗢𝗣](https://t.me/S12K_GAMER_YT_OP)
 
 
+<p align="center">
+  <img src="[𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 - 𝗢𝗣](https://t.me/Mr_stonedLegend)">
+</p>
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/MR-KANNADIGA/ROBOTSPAM?utm_source=github.com&utm_medium=referral&utm_content=MR-KANNADIGA/ROBOTSPAM&utm_campaign=Badge_Grade_Settings)
 [![Size](https://img.shields.io/github/repo-size/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/MR-KANNADIGA/ROBOTSPAM/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
