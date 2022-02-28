@@ -18,12 +18,12 @@ from datetime import datetime
 KANNADIGA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg"
   
 
-DEADLY = "⚡ 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 𝗕𝗢𝗧  ⚡\n\n"
-DEADLY += f" ❤️𝐊𝐀𝐑𝐍𝐀𝐓𝐀𝐊𝐀's 𝟭𝐒𝐓 𝐁𝐎𝐓𝐒𝐏𝐀𝐌❤️\n\n"
+DEADLY = "⚡ 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗕𝗢𝗧  ⚡\n\n"
+DEADLY += f" ❤️𝗦𝗣𝗘𝗖𝗜𝗔𝗟 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗕𝗢𝗧❤️\n\n"
 DEADLY += f"╔═══════════════════════╗\n"
-DEADLY += f"║• **ᴄʀᴇᴀᴛᴏʀ** :`ᴘʀᴏғᴇssᴏʀ ᴀɢᴏʀᴀ   `             ║\n"
+DEADLY += f"║• **ᴄʀᴇᴀᴛᴏʀ** :`ᴘʀᴏғᴇssᴏʀ ʙᴇʀʟɪɴ ᴛᴏxɪᴄ ᴀɴᴋɪᴛ sʜɪʙ   `             ║\n"
 DEADLY += f"║• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`               ║\n"
-DEADLY += f"║• **ᴋᴀɴɴᴀᴅɪɢᴀ ʙᴏᴛ sᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{kannadigaversion}` ║\n"
+DEADLY += f"║• **ᴅᴀɴɢᴇʀᴏᴜs ʙᴏᴛ sᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{kannadigaversion}` ║\n"
 DEADLY += f"╚═══════════════════════╝\n\n"   
 
                                   
@@ -35,11 +35,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/KANNADIGA_BOTS"),
-        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/NAAN_1_KANNADIGA")
+        Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/AGORABOTS_INFO"),
+        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/DANGEROUSFIGHTERS")
         ],
         [
-        Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/MR-KANNADIGA/ROBOTSPAM")
+        Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/DANGEROUSFIGHTERS/DANGEROUS-BOTSPAM")
         ]
         ]
         )
@@ -88,7 +88,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 𝗬𝗘𝗦 𝗕𝗢𝗦𝗦!\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🎉 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗞𝗘 𝗔𝗥𝗠𝗬 𝗜𝗦 𝗥𝗘𝗔𝗗𝗬!\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
@@ -104,7 +104,7 @@ async def ping(e):
 @BOT9.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Rebooting ↪️**.. Please Wait Until It Starts Again"
+        text = "**𝗥𝗘𝗕𝗢𝗢𝗧𝗜𝗡𝗚 ↪️**.𝗥𝗨𝗞𝗞 𝗕𝗛𝗔𝗜 𝗖𝗛𝗔𝗟𝗨 𝗛𝗢 𝗥𝗔𝗛 𝗛𝗨. P"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await BOT0.disconnect()
