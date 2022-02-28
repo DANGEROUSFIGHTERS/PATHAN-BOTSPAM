@@ -1,7 +1,7 @@
 {
-    "name": "Kannadiga Robot Spam Bot",
-    "description": "MOST POWERFULL SPAMMING BOT MADE BY KANNADIGA",
-    "logo": "https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg",
+    "name": "DANGEROUS FIGHTERS",
+    "description": "MOST POWERFULL SPAMMING BOT MADE BY DANGEROUS FIGHTERS",
+    "logo": "https://te.legra.ph/file/010bd75e3be976c73000c.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -10,7 +10,7 @@
         "SpamBot"
     ],
     "repository": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
-    "website": "https://t.me/MR_PROFESSOR_AGORA",
+    "website": "https://t.me/DANGEROUSFIGHTERS",
     "success_url": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
     "env": {
              "API_ID": {
@@ -85,12 +85,12 @@
       },
        "SUDO_USER": {
             "description": "Sudo User ID",
-            "value": "",
+            "value": "5235824260",
             "required": false
         },
       "OWNER_ID": {
             "description": "OWNER ID",
-            "value": "",
+            "value": "5235824260",
             "required": true
         },
         "HEROKU_API_KEY": {
