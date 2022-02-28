@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://te.legra.ph/file/010bd75e3be976c73000c.jpg">
 </p>
-
+[𝗕𝗘𝗥𝗟𝗜𝗡 𝗢𝗣](t.me/wtf_berlinop) ༒ [𝗔𝗡𝗞𝗜𝗧 𝗢𝗣](t.me/ANKIT_TOXICOP) ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 - 𝗢𝗣](t.me/Mr_Stonedlegend) ༒ [𝗧𝗢𝗫𝗜𝗖 - 𝗢𝗣](t.me/toxic_ankitop) ༒ [𝗦𝗛𝗜𝗩 𝗢𝗣](t.me/S12K_GAMER_YT_OP)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/MR-KANNADIGA/ROBOTSPAM?utm_source=github.com&utm_medium=referral&utm_content=MR-KANNADIGA/ROBOTSPAM&utm_campaign=Badge_Grade_Settings)
 [![Size](https://img.shields.io/github/repo-size/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/MR-KANNADIGA/ROBOTSPAM/)   
