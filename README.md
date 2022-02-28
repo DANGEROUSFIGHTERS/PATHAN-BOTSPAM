@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <img src="[𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 - 𝗢𝗣](https://t.me/Mr_stonedLegend)">
-</p>
+  [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 - 𝗢𝗣](https://t.me/Mr_stonedLegend)"
+
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/MR-KANNADIGA/ROBOTSPAM?utm_source=github.com&utm_medium=referral&utm_content=MR-KANNADIGA/ROBOTSPAM&utm_campaign=Badge_Grade_Settings)
 [![Size](https://img.shields.io/github/repo-size/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/MR-KANNADIGA/ROBOTSPAM/)   
