@@ -11,7 +11,7 @@
     ],
     "repository": "https://github.com/DANGEROUSFIGHTERS/DANGEROUS-BOTSPAM",
     "website": "https://t.me/DANGEROUSFIGHTERS",
-    "success_url": "https://github.com/DANGEROUSFIGHTERS/BOTSPAM",
+    "success_url": "https://github.com/DANGEROUSFIGHTERS/DANGEROUS-BOTSPAM",
     "env": {
              "API_ID": {
         "description": "Get API_ID from my.telegram.org & Enter Here",
