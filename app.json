@@ -9,9 +9,9 @@
         "Mr-Kannadiga",
         "SpamBot"
     ],
-    "repository": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
+    "repository": "https://github.com/DANGEROUSFIGHTERS/DANGEROUS-BOTSPAM",
     "website": "https://t.me/DANGEROUSFIGHTERS",
-    "success_url": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
+    "success_url": "https://github.com/DANGEROUSFIGHTERS/BOTSPAM",
     "env": {
              "API_ID": {
         "description": "Get API_ID from my.telegram.org & Enter Here",
