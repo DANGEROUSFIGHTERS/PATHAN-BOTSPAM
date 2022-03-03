@@ -1,4 +1,4 @@
-# [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗔𝗡𝗞𝗜𝗧 𝗕𝗘𝗥𝗟𝗜𝗡 𝗧𝗢𝗫𝗜𝗖 𝗦𝗛𝗜𝗩](https://t.me/DANGEROUSFIGHTERS) <br>
+# [𝗣𝗔𝗧𝗛𝗔𝗡 𝗧𝗛𝗘 𝗕𝗥𝗔𝗡𝗗](https://t.me/dangerous_Aatank) <br>
 # 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗣 𝗔 𝗕 𝗧 𝗦](https://t.me/DANGEROUSFIGHTERS)
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/DANGEROUSFIGHTERS"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DANGEROUS_AATANK"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 <a href="https://t.me/AGORABOTS_INFO"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
