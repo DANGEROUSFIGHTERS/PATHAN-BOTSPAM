@@ -142,7 +142,7 @@ async def _(e):
                 gey = que.get(user_id)
                 phucker = [user_id]
                 gey.append(phucker)
-                text = f"𝗮𝗯 𝗯𝗮𝗮𝘁 𝗸𝗮𝗿 𝗺𝗮𝗱𝗮𝗿𝗰𝗵𝗼𝗱"
+                text = f"𝗕𝗢𝗦𝗦 𝗥𝗘𝗣𝗟𝗬𝗥𝗔𝗜𝗗 𝗟𝗔𝗚𝗔𝗗𝗜𝗔"
                 await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -163,7 +163,7 @@ async def _(e):
                 gey = que.get(user_id)
                 phucker = [user_id]
                 gey.append(phucker)
-                text = f"𝗯𝗵𝗼𝘂𝗸 𝗸𝘂𝘁𝘁𝗲 𝗼𝗿𝗿 𝗷𝗼𝗿𝘀𝗲 𝗯𝗼𝘂𝗸"
+                text = f"𝗕𝗢𝗦𝗦 𝗨𝗦𝗞𝗔 𝗥𝗘𝗣𝗟𝗬 𝗞𝗔 𝗪𝗔𝗜𝗧𝗜𝗡𝗚"
                 await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage)
@@ -196,7 +196,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "𝗷𝗮𝗮 𝗯𝗲𝘁𝗮 𝗷𝗲𝗲𝘃𝗮𝗻 𝗱𝗮𝗮𝗻 𝗱𝗲𝘁𝗮 𝘁𝘂𝗷𝗲 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀 𝗖𝗹𝗮𝗻 𝗞 𝘁𝗮𝗿𝗮𝗳 𝘀𝗲"
+            text = "𝗷𝗮𝗮 𝗯𝗲𝘁𝗮 𝗷𝗲𝗲𝘃𝗮𝗻 𝗱𝗮𝗮𝗻 𝗱𝗲𝘁𝗮 𝘁𝘂𝗷𝗲  𝗣𝗔𝗧𝗛𝗔𝗡 𝗕𝗢𝗦𝗦 𝘁𝗮𝗿𝗮𝗳 𝘀𝗲"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -207,7 +207,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "𝗷𝗮𝗮 𝗯𝗲𝘁𝗮 𝗷𝗲𝗲𝘃𝗮𝗻 𝗱𝗮𝗮𝗻 𝗱𝗲𝘁𝗮 𝘁𝘂𝗷𝗲 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀 𝗖𝗹𝗮𝗻 𝗞 𝘁𝗮𝗿𝗮𝗳 𝘀𝗲"
+            text = "𝗷𝗮𝗮 𝗯𝗲𝘁𝗮 𝗷𝗲𝗲𝘃𝗮𝗻 𝗱𝗮𝗮𝗻 𝗱𝗲𝘁𝗮 𝘁𝘂𝗷𝗲 𝗣𝗔𝗧𝗛𝗔𝗡 𝗕𝗢𝗦𝗦 𝘁𝗮𝗿𝗮𝗳 𝘀𝗲"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
