@@ -1,7 +1,7 @@
 {
-    "name": "DANGEROUS FIGHTERS",
-    "description": "MOST POWERFULL SPAMMING BOT MADE BY DANGEROUS FIGHTERS",
-    "logo": "https://te.legra.ph/file/010bd75e3be976c73000c.jpg",
+    "name": "PATHAN THE BRAND",
+    "description": "MOST POWERFULL SPAMMING BOT MADE BY PATHAN BHAI",
+    "logo": "https://te.legra.ph/file/6ddeaa855929a71f3a4c2.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,9 +9,9 @@
         "Mr-Kannadiga",
         "SpamBot"
     ],
-    "repository": "https://github.com/DANGEROUSFIGHTERS/DANGEROUS-BOTSPAM",
-    "website": "https://t.me/DANGEROUSFIGHTERS",
-    "success_url": "https://github.com/DANGEROUSFIGHTERS/DANGEROUS-BOTSPAM",
+    "repository": "https://github.com/DANGEROUSFIGHTERS/PATHAN-BOTSPAM",
+    "website": "https://t.me/DANGEROUS_AATANK",
+    "success_url": "https://github.com/DANGEROUSFIGHTERS/PATHAM-BOTSPAM",
     "env": {
              "API_ID": {
         "description": "Get API_ID from my.telegram.org & Enter Here",
@@ -20,7 +20,7 @@
       },
       "ALIVE_PIC": {
         "description": "Telegraph Link Of Photo/Video",
-        "value": "https://telegra.ph/file/d336651ca60a7a122f524.jpg",
+        "value": "https://te.legra.ph/file/6ddeaa855929a71f3a4c2.jpg",
         "required": false
       },
       "API_HASH": {
