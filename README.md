@@ -2,10 +2,9 @@
 # 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗣 𝗔 𝗕 𝗧 𝗦](https://t.me/DANGEROUSFIGHTERS)
 
 <p align="center">
-  <img src="https://te.legra.ph/file/010bd75e3be976c73000c.jpg">
+  <img src="https://te.legra.ph/file/6ddeaa855929a71f3a4c2.jpg">
 </p>
 
-# [𝗕𝗘𝗥𝗟𝗜𝗡](https://t.me/wtf_berlinop) ༒ [𝗔𝗡𝗞𝗜𝗧](https://t.me/ANKIT_TOXICOP) ༒ [𝗧𝗢𝗫𝗜𝗖](https://t.me/toxic_ankitop) ༒ [𝗦𝗛𝗜𝗩](https://t.me/S12K_GAMER_YT_OP) ༒ [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥](https://t.me/Mr_stonedLegend)
 
 
 <p align="center" 
