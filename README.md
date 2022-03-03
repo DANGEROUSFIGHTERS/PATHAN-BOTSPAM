@@ -1,5 +1,5 @@
 # [𝗣𝗔𝗧𝗛𝗔𝗡 𝗧𝗛𝗘 𝗕𝗥𝗔𝗡𝗗](https://t.me/dangerous_Aatank) <br>
-# 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗣 𝗔 𝗕 𝗧 𝗦](https://t.me/DANGEROUSFIGHTERS)
+# 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗣𝗔𝗧𝗛𝗔𝗡](https://t.me/DANGEROUSFIGHTERS)
 
 <p align="center">
   <img src="https://te.legra.ph/file/6ddeaa855929a71f3a4c2.jpg">
