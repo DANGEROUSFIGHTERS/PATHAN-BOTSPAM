@@ -5,21 +5,21 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from Kannadiga import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID
 
-KANNADIGA_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/010bd75e3be976c73000c.jpg"
+KANNADIGA_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/6ddeaa855929a71f3a4c2.jpg"
 
 Deadly_Button = [
         [
         Button.url("❤️ sᴜᴘᴘᴏʀᴛ ❤️", "https://t.me/AGORABOTS_INFO")
         ],
         [
-        Button.url("💛 ᴍᴀɪɴᴛᴀɪɴ ʙʏ 💛", "https://t.me/MR_STONEDLEGEND")
+        Button.url("💛 ᴍᴀɪɴᴛᴀɪɴ ʙʏ 💛", "https://t.me/User_id_PATHAN")
         ]
         ]
                
 DeadlyX_Button = [
         [
         Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/AGORABOTS_INFO"),
-        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/DANGEROUSFIGHTERS")
+        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/DANGEROUS_AATANK")
         ],
         [
         Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/MR-KANNADIGA/ROBOTSPAM")
