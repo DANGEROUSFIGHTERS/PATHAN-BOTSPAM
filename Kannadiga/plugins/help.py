@@ -7,7 +7,7 @@ from Kannadiga import CMD_HNDLR as hl
     
 HELP_PIC = "https://telegra.ph/file/d336651ca60a7a122f524.jpg"
 
-ZAID_Help = "❤️💛 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 💛❤️\n\n"
+ZAID_Help = "❤️💛 𝗣𝗔𝗧𝗛𝗔𝗡 𝗧𝗛𝗘 𝗕𝗥𝗔𝗡𝗗 𝗦𝗣𝗔𝗠𝗕𝗢𝗧𝗦 💛❤️\n\n"
  
 ZAID_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
 
@@ -25,7 +25,7 @@ ZAID_Help += f" `.raid` - To Raid\n `.replyraid` - To Active Reply Raid\n `.drep
 
 ZAID_Help += f" .zaidspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂😈↧\n\n"
 
-ZAID_Help += f"© @DANGEROUSFIGHTERS\n"
+ZAID_Help += f"© @User_id_PATHAN\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
