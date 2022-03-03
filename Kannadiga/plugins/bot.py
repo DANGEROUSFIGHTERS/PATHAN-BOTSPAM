@@ -18,12 +18,12 @@ from datetime import datetime
 KANNADIGA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg"
   
 
-DEADLY = "⚡ 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗕𝗢𝗧  ⚡\n\n"
+DEADLY = "⚡ 𝗣𝗔𝗧𝗛𝗔𝗡 𝗧𝗛𝗘. 𝗕𝗥𝗔𝗡𝗗 ⚡\n\n"
 DEADLY += f" ❤️𝗦𝗣𝗘𝗖𝗜𝗔𝗟 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗕𝗢𝗧❤️\n\n"
 DEADLY += f"╔═══════════════════════╗\n"
-DEADLY += f"║• **ᴄʀᴇᴀᴛᴏʀ** :`ᴘʀᴏғᴇssᴏʀ ʙᴇʀʟɪɴ ᴛᴏxɪᴄ ᴀɴᴋɪᴛ sʜɪʙ   `             ║\n"
+DEADLY += f"║• **ᴄʀᴇᴀᴛᴏʀ** :`ᴘʀᴏғᴇssᴏʀ  ᴘᴀᴛʜᴀɴ ᴛʜᴇ ʙʀᴀɴᴅ`             ║\n"
 DEADLY += f"║• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`               ║\n"
-DEADLY += f"║• **ᴅᴀɴɢᴇʀᴏᴜs ʙᴏᴛ sᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{kannadigaversion}` ║\n"
+DEADLY += f"║• **ᴘᴀᴛʜᴀɴ ᴛʜᴇ ʙʀᴀɴᴅ**  : `{kannadigaversion}` ║\n"
 DEADLY += f"╚═══════════════════════╝\n\n"   
 
                                   
@@ -36,10 +36,10 @@ async def alive(event):
                                   buttons=[
         [
         Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/AGORABOTS_INFO"),
-        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/DANGEROUSFIGHTERS")
+        Button.url("💛 sᴜᴘᴘᴏʀᴛ 💛", "https://t.me/DANGEROUS_AATANK")
         ],
         [
-        Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/DANGEROUSFIGHTERS/DANGEROUS-BOTSPAM")
+        Button.url("✨ ʀᴇᴘᴏ ✨", "https://github.com/DANGEROUSFIGHTERS/PATHAN-BOTSPAM")
         ]
         ]
         )
@@ -88,7 +88,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗙𝗜𝗚𝗛𝗧𝗘𝗥𝗦 𝗞𝗘 𝗔𝗥𝗠𝗬 𝗜𝗦 𝗥𝗘𝗔𝗗𝗬!\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🎉 𝗣𝗔𝗧𝗛𝗔𝗡 𝗕𝗛𝗔𝗜 𝗛𝗨𝗠 𝗥𝗘𝗔𝗗𝗬 𝗛𝗔𝗜 𝗔𝗔𝗗𝗘𝗦𝗛 𝗗𝗜𝗝𝗜𝗬𝗘 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
